@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is __Armando__, 🔭 I’m currently working as a ___DevOps Engineer___, I have a wide interest in topics about Cloud, Linux  and Infosec. 
+My name is __Armando__, I’m currently working as a ___DevOps Engineer___, I have a wide interest in topics about Cloud, Linux  and Infosec. 
 
-I consider myself as a _Python_ 🐍 Enthusiast. 🔭 I’m currently working on [Meru](meru.com)
+I consider myself as a _Python_ 🐍 Enthusiast. 🔭 I’m currently working at [Meru](meru.com)
 
-💬 Ask me about ...
+### 💬 Ask me about ...
 
 - Services implementations with high ability, fault tolerance, optimizations, monitoring and security hardening on Cloud Services (AWS) and on-primise (Linux)
 - Virtualizations and Containers
@@ -13,10 +13,14 @@ I consider myself as a _Python_ 🐍 Enthusiast. 🔭 I’m currently working on
 - Programing languages (Python, Bash)
 - Cloud Services (AWS)
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 - [@armanroot](https://twitter.com/armanroot)
 - [Blog](armanroot.com)
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jahrmando&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **jahrmando/jahrmando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
