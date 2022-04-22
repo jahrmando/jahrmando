@@ -2,7 +2,7 @@
 
 My name is __Armando__, I’m currently working as a ___DevOps Engineer___, I have a wide interest in topics about Cloud, Linux  and Infosec. 
 
-I consider myself as a _Python_ 🐍 Enthusiast. 🔭 I’m currently working at [Meru](meru.com)
+I consider myself as a _Python_ 🐍 Enthusiast. 🔭 I’m currently working at [Meru](https://meru.com.mx)
 
 ### 💬 Ask me about ...
 
@@ -16,7 +16,7 @@ I consider myself as a _Python_ 🐍 Enthusiast. 🔭 I’m currently working at
 ### 📫 How to reach me:
 
 - [@armanroot](https://twitter.com/armanroot)
-- [Blog](armanroot.com)
+- [Blog](https://armanroot.com)
 
 ### :fire: My Stats :
 
