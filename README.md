@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there :metal:
 
-My name is __Armando__, I’m currently working as a ___DevOps Engineer___, I have a wide interest in topics about Cloud, Linux  and Infosec. 
+My name is __Armando__, I’m currently working as a ___DevOps Engineer___, I have a wide interest in topics about Cloud, Linux and Infosec. 
 
-I consider myself as a _Python_ 🐍 Enthusiast. 🔭 I’m currently working at [Meru](https://meru.com.mx)
+I consider myself as a _Python_ 🐍 Enthusiast. :technologist: I’m currently working at [Meru](https://meru.com.mx)
 
 ### 💬 Ask me about ...
 
@@ -11,7 +11,7 @@ I consider myself as a _Python_ 🐍 Enthusiast. 🔭 I’m currently working at
 - IaC tools like Terraform, Ansible and Chef
 - Serveless infraestructure
 - Programing languages (Python, Bash)
-- Cloud Services (AWS)
+- Cloud Services (AWS) :cloud:
 
 ### 📫 How to reach me:
 
